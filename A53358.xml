@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the occasion of the descent of His Highness the Prince of Orange into England, and Their Highnesses accession to the crown a pindarique ode.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53358</idno>
+            <idno type="STC">Wing O318A</idno>
+            <idno type="STC">ESTC R6796</idno>
+            <idno type="EEBO-CITATION">12988524</idno>
+            <idno type="OCLC">ocm 12988524</idno>
+            <idno type="VID">96263</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96263)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 724:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the occasion of the descent of His Highness the Prince of Orange into England, and Their Highnesses accession to the crown a pindarique ode.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:96263:1"/>
+            <!-- PDF PAGE 34 -->
+            <head>On the Occaſion of the DESCENT OF HIS HIGHNESS THE Prince of Orange INTO ENGLAND, AND THEIR Highneſſes Acceſſion to the CROWN. A Pindarique ODE.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>VErtue, how weak is thy Defence!</l>
+               <l>How weak thy Guards of Innocence!</l>
+               <l>When giddy Pow'r has but a weak pretence;</l>
+               <l>A weak pretence too ſtrong will prove</l>
+               <l>For all thy mighty, humble Bonds of Love;</l>
+               <l>The Poyſon of a weak pretence</l>
+               <l>Will ſtain thy bright Obedience;</l>
+               <l>Tho' Paſſive 'tis, and 'tis refin'd,</l>
+               <l>Beyond the common kind;</l>
+               <l>Tho'free,</l>
+               <l>From the blind Bigot, and Hypocriſy.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>In the warm cloſe</l>
+               <l>Of ſacred <hi>Charles</hi>'s eaſie Reign,</l>
+               <l>The truth too lucidly aroſe</l>
+               <l>To be ſuſpected vain;</l>
+               <pb n="2" facs="tcp:96263:2"/>
+               <!-- PDF PAGE 35 -->
+               <l>Diſſolv'd in eaſe, and weakn'd with delight,</l>
+               <l>The truſt of pow'r was in the Jeſuite;</l>
+               <l>The Jeſuite profoundly knew</l>
+               <l>The Arts to huddle up old Plots, by forging new,</l>
+               <l>From out the Nooſe his neck he ſwiftly drew;</l>
+               <l>For averſion ſome, and ſome for gain,</l>
+               <l>Would the old truth maintain;</l>
+               <l>Too eagerly they hurried on</l>
+               <l>The after-game,</l>
+               <l>And wrought their heedleſs Zeal into a Flame,</l>
+               <l>That ſerv'd to ſhape their own;</l>
+               <l>Some juſtly for their folly fell:</l>
+               <l>Yet why ſhould pious <hi>Ruſſel</hi> bear a part?</l>
+               <l>Who ne'r knew Art,</l>
+               <l>But to oblige his Countries King and God:</l>
+               <l>Why noble <hi>Eſſex</hi> bear the double Load,</l>
+               <l>Of Active, and of paſſive ill?</l>
+               <l>A martyr'd Saint, tho meant a Sacrifice to Hell.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Yet, glorious Soul, from thee</l>
+               <l>Far be the ſpecious Villany:</l>
+               <l>Thy Errors only were too kind,</l>
+               <l>For plenty, and for eaſe deſign'd;</l>
+               <l>Thy thoughts imploy'd in Love, and Peace;</l>
+               <l>And all thy genuine Acts were Acts of grace;</l>
+               <l>Thy Juſtice did to all afford</l>
+               <l>The Ballance, very few the Sword:</l>
+               <l>But thus miſled</l>
+               <l>Thy <hi>Judas</hi> in the Kiſs betray'd,</l>
+               <l>And in our Temples rended veils we needs muſt read,</l>
+               <l>How their great Saviour Dy'd.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>'Tis done, and 'tis a <hi>Roman</hi> Deed,</l>
+               <l>The day now openly they claim;</l>
+               <l>Numerous unerring Tragedies ſucceed,</l>
+               <l>The ſanction of a <hi>Roman</hi> Aim;</l>
+               <l>And Vertue languiſhes at beſt,</l>
+               <l>Or only for deſign,</l>
+               <l>Or by oppreſſion is confeſt:</l>
+               <l>The ſacred Fence of Law goes down,</l>
+               <l>And nothing's left us but the Gown:</l>
+               <l>The Goſpel ſhould the Turn purſue,</l>
+               <l>If Wolves diſguis'd amongſt the Sheep could do:</l>
+               <l>All Faith by Precedents deny'd,</l>
+               <l>To Heav'n 'tis ſcarce ally'd;</l>
+               <l>And hope can on her Anchor hardly ſtem the Tyde:</l>
+               <l>Unmask't the Jeſuite appears,</l>
+               <l>Unmask't the Reverend Villany he bears;</l>
+               <l>For Hell the Tool to nothing elſe intends.</l>
+               <l>But ruin to his Friends:</l>
+               <pb n="3" facs="tcp:96263:2"/>
+               <!-- PDF PAGE 35 -->
+               <l>Ah! Royal <hi>James,</hi> thou might'ſt have known</l>
+               <l>Thy pleaſant <hi>Eden</hi> yet thy own;</l>
+               <l>Thy pow'r next Heaven, thy Actions free,</l>
+               <l>And all thy Creatures fond of thee;</l>
+               <l>Had not thy Womans vicious Appetite</l>
+               <l>Been cheated by the Devil the Jeſuite.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>But purging Remedies muſt eaſe</l>
+               <l>The Heats of a Diſſeaſe:</l>
+               <l>And tho the Devil, and Woman fixt the Vice</l>
+               <l>On vain,</l>
+               <l>Deluded Man,</l>
+               <l>'Twas Heav'n expell'd him Paradice;</l>
+               <l>Heav'n ſaw the Clogg his People drew</l>
+               <l>From Woman, and the Bigot too;</l>
+               <l>He ſaw the Conſcientious Arts begun,</l>
+               <l>And laviſhly he ſaw them carry'd on;</l>
+               <l>He ſaw the Fleſh pots dreſt, t'incite</l>
+               <l>His <hi>Iſrael</hi> to drudge with Appetite;</l>
+               <l>But when once bound to ſlavery, he knew,</l>
+               <l>That Leeks and Onyons would profufely do;</l>
+               <l>He ſaw, and heard at length the Cries</l>
+               <l>They offer'd for their Miſeries;</l>
+               <l>And <hi>Orange, Moſes</hi>-like ordain'd,</l>
+               <l>T' expunge the faithleſs King, and purge th' infected land.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>He comes, He comes, th' Almighty's choice!</l>
+               <l>The Winds, and Seas obey his Voice!</l>
+               <l>'Twas Heav'n the mighty work begun,</l>
+               <l>For every Act of thine,</l>
+               <l>Almighty <hi>Hero,</hi> is divine;</l>
+               <l>For Heav'n are all the conqueſts thou haſt won:</l>
+               <l>To thy Commiſſion who would not ſubmit!</l>
+               <l>Whoſe Victories are in the gaining ſweet;</l>
+               <l>And in fruition ſure muſt be divinely great.</l>
+               <l>Thoſe noble Searching Souls, who early knew</l>
+               <l>The Miſeries that would enſue;</l>
+               <l>And early were oppreſt,</l>
+               <l>For turning evils to the beſt,</l>
+               <l>Heav'ns gracious care at thy approach confeſt;</l>
+               <l>On thee their Faith, and Hope ſecurely plac't:</l>
+               <l>Nor flatt'ring Honour, vicious Gain,</l>
+               <l>Nor Influence, the reſt could chain,</l>
+               <l>On thee to truſt 'tis ſafe, on them 'tis vain:</l>
+               <l>But <hi>Churchill</hi> let me ever name;</l>
+               <l>
+                  <hi>Churchill,</hi> the Muſes happy claim!</l>
+               <l>
+                  <hi>Churchill,</hi> the Precedent of fame!</l>
+               <l>His Vertue, no prevailing eaſe,</l>
+               <l>No weak'ning Honours e're could leſſen to Degrees;</l>
+               <l>Nor Court, nor Camp, but by deſerts could pleaſe.</l>
+               <pb n="4" facs="tcp:96263:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 36 -->
+               <l>Betimes he to his God intends,</l>
+               <l>His Cauſe (he knew) deſerv'd before his Friends;</l>
+               <l>Betimes the Glorious Courſe purſu'd,</l>
+               <l>He knew, that to be great was to be good,</l>
+               <l>And ſcorn'd the ſpecious Murmurs of the Crowd;</l>
+               <l>He truly knew,</l>
+               <l>That Heav'n was won by loſs, and ſcandal too.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>
+                  <hi>Io Triumphe!</hi> be your Song,</l>
+               <l>That to the Houſe of God belong;</l>
+               <l>Such holy extaſies are due,</l>
+               <l>O <hi>Albion,</hi> from all thy Laymen too:</l>
+               <l>For where do's Heav'ns prevailing mercies ſhine,</l>
+               <l>With greater Luſtre, than on Thine?</l>
+               <l>Would you conquer Heav'n, prevent</l>
+               <l>The wretched ills your ſins have meant?</l>
+               <l>This conqueſt is your Preſident:</l>
+               <l>Would you all the beauties know,</l>
+               <l>That peace and loveſome eaſe can ſhew?</l>
+               <l>Obey and Love the mighty two.</l>
+               <l>Love and Obedience, are the ſweeteſt Fruit</l>
+               <l>Of Heaven, the pleaſing Attribute.</l>
+               <l>Hail! ſacred <hi>Hero,</hi> bleſt the Crown!</l>
+               <l>That Heav'n and Merit makes thy own:</l>
+               <l>May all thy genial Kingdoms prove,</l>
+               <l>As eaſie as thy Royal Love;</l>
+               <l>And may thy Scepter ſtill poſſeſs the Dove.</l>
+               <l>
+                  <hi>Ave Maria!</hi> full of Grace,</l>
+               <l>And all as charming as thy Face;</l>
+               <l>For thus religiouſly to thee</l>
+               <l>We bow from ſuperſtition free:</l>
+               <l>May all thy Hours be crown'd with bliſs,</l>
+               <l>Sweet as thy thoughts, and great as his;</l>
+               <l>May conſtant Love, and uſeful War,</l>
+               <l>Attend your ſervice every where;</l>
+               <l>And ſtill may your Auſpicious Rule</l>
+               <l>Extend o're all, inlarge in ev'ry Soul.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
